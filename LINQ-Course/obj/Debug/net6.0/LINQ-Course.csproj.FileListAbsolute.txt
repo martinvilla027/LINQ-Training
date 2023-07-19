@@ -1,0 +1,15 @@
+C:\Users\Martín Villa\Desktop\Study\LINQ-Course\LINQ-Course\bin\Debug\net6.0\LINQ-Course.exe
+C:\Users\Martín Villa\Desktop\Study\LINQ-Course\LINQ-Course\bin\Debug\net6.0\LINQ-Course.deps.json
+C:\Users\Martín Villa\Desktop\Study\LINQ-Course\LINQ-Course\bin\Debug\net6.0\LINQ-Course.runtimeconfig.json
+C:\Users\Martín Villa\Desktop\Study\LINQ-Course\LINQ-Course\bin\Debug\net6.0\LINQ-Course.dll
+C:\Users\Martín Villa\Desktop\Study\LINQ-Course\LINQ-Course\bin\Debug\net6.0\LINQ-Course.pdb
+C:\Users\Martín Villa\Desktop\Study\LINQ-Course\LINQ-Course\obj\Debug\net6.0\LINQ-Course.csproj.AssemblyReference.cache
+C:\Users\Martín Villa\Desktop\Study\LINQ-Course\LINQ-Course\obj\Debug\net6.0\LINQ-Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martín Villa\Desktop\Study\LINQ-Course\LINQ-Course\obj\Debug\net6.0\LINQ-Course.AssemblyInfoInputs.cache
+C:\Users\Martín Villa\Desktop\Study\LINQ-Course\LINQ-Course\obj\Debug\net6.0\LINQ-Course.AssemblyInfo.cs
+C:\Users\Martín Villa\Desktop\Study\LINQ-Course\LINQ-Course\obj\Debug\net6.0\LINQ-Course.csproj.CoreCompileInputs.cache
+C:\Users\Martín Villa\Desktop\Study\LINQ-Course\LINQ-Course\obj\Debug\net6.0\LINQ-Course.dll
+C:\Users\Martín Villa\Desktop\Study\LINQ-Course\LINQ-Course\obj\Debug\net6.0\refint\LINQ-Course.dll
+C:\Users\Martín Villa\Desktop\Study\LINQ-Course\LINQ-Course\obj\Debug\net6.0\LINQ-Course.pdb
+C:\Users\Martín Villa\Desktop\Study\LINQ-Course\LINQ-Course\obj\Debug\net6.0\LINQ-Course.genruntimeconfig.cache
+C:\Users\Martín Villa\Desktop\Study\LINQ-Course\LINQ-Course\obj\Debug\net6.0\ref\LINQ-Course.dll
